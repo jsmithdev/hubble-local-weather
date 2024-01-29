@@ -9,7 +9,7 @@
     "description": "Weather for your area",
     "site": "https://github.com/jsmithdev/hubble-local-weather",
     "icon": "https://raw.githubusercontent.com/jsmithdev/hubble-local-weather/main/resources/icon.svg?raw=true",
-    "executable": "https://unpkg.com/hubble-local-weather@0.0.1/lit.js"
+    "executable": "https://unpkg.com/hubble-local-weather@0.0.1/build/lit.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
